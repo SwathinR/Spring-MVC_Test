@@ -13,7 +13,7 @@ body {
 </head>
 <body>${message}
  
-	 <jsp:useBean id="counter" scope="session" class="com.project.controller.WordLength"/>
+	 <jsp:useBean id="counter" scope="session" class="main.java.com.project.controller.WordLength"/>
 
     <% 
       String w1= request.getParameter("p1"); 
