@@ -12,6 +12,7 @@ public class WordLength {
 	public  void setWord(String w){
 		word = w;
 		length = word.length();
+		length = 2;
 	}
 
 	public  String getWord(){
