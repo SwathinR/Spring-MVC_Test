@@ -1,4 +1,4 @@
-package main.com.project.controller;
+package main.java.com.project.controller;
 
 
 public class WordLength {

@@ -2,7 +2,8 @@ package test.java;
 
 import org.junit.Assert;
 import org.junit.Test;
-import main.com.project.controller.WordLength;
+
+import main.java.com.project.controller.WordLength;
 
 public class WordLengthTest{
 
