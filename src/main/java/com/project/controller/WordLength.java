@@ -16,7 +16,7 @@ public class WordLength {
 	}
 
 	public  String getWord(){
-		return word;
+		return word ;
 	}
 
 	public  int getLength(){
