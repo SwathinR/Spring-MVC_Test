@@ -22,7 +22,7 @@ body {
       l1 = counter.getLength();
     %>
 
-    <p> The word <%= w1 %> has <%= l1 %> characters.</p>
+    <p> The word '<%= w1 %>' has <%= l1 %> characters.</p>
     
 	 <a href="/welcome/jsp/welcome.jsp">back</a>
 </body>
