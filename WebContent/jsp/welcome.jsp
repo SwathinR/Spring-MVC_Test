@@ -35,7 +35,13 @@ body {
 		<br>Avinash makes some changes after Taha
 
 		<br>Swathin
-
+		<hr>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
     <form action="welcome2.jsp">
 
       <p> Word 1: <input name="p1"></p>
