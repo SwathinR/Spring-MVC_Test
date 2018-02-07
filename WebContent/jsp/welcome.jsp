@@ -16,7 +16,7 @@ body {
 	<br>
 	<br>
 	<div style="font-family: verdana; padding: 10px; border-radius: 10px; font-size: 12px; text-align:center;">
- 
+   
 		Spring MCV Tutorial by <a href="https://crunchify.com">Crunchify</a>.
 		Click <a
 			href="https://crunchify.com/category/java-tutorials/"
@@ -43,8 +43,8 @@ body {
 		<br>
 		<br>
     <form action="welcome2.jsp">
-
-      <p> Word 1: <input name="p1"></p>
+		<h1> Word Count App </h1>
+      <p> Enter Word Here: <input name="p1"></p>
       </p>
       <input type="submit" value="Count">
      
